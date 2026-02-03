@@ -199,6 +199,15 @@ f′(x) = −6x² − 12x + 18
 따라서 점수의 절대적인 크기보다는
 미분 적용 전후의 상대적 변화와 해석 가능성에 중점을 둔다.
 
+
+![파스타](https://github.com/CHOMINJUN-127/math-2/blob/main/%ED%8C%8C%EC%8A%A4%ED%83%80.png)
+
+![치킨](https://github.com/CHOMINJUN-127/math-2/blob/main/%EC%B9%98%ED%82%A8.png)
+
+![샐러-딥러닝](https://github.com/CHOMINJUN-127/math-2/blob/main/%EC%83%90%EB%9F%AC%EB%93%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D.png)
+
+![샐러드](https://github.com/CHOMINJUN-127/math-2/blob/main/%EC%83%90%EB%9F%AC%EB%93%9C.png)
+
 ## ⚠️ 주의사항 및 한계
 
 본 프로젝트는 수학적 개념의 응용 가능성을 탐구하기 위한 실험적 성격의 구현으로,
